@@ -42,10 +42,9 @@
 
 ## Preview
 * 用户操作界面  
+![](https://github.com/Programming-Heiro/Ruler-master/blob/master/screenshots/image007.jpg | width=100)
+![](https://github.com/Programming-Heiro/Ruler-master/blob/master/screenshots/image008.jpg | width=100)
 
-
-<img src="https://github.com/Programming-Heiro/Ruler-master/blob/master/screenshots/image007.jpg" width="175" alt="")/>
-<img src="https://github.com/Programming-Heiro/Ruler-master/blob/master/screenshots/image008.jpg" width="175" alt="")/>
 
 * 长度测量  
 ![](https://github.com/Programming-Heiro/Ruler-master/blob/master/screenshots/1.gif)
